@@ -1,4 +1,10 @@
 # cubbit_test_project
+
+## requirements
+1. Python >=3.9
+2. Docker
+3. docker-compose
+
 ## environment setup venv
 1. Open a shell 
 
